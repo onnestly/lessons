@@ -1,0 +1,10 @@
+.env
+
+temp/
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+models/
